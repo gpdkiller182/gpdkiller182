@@ -80,7 +80,7 @@
 
 【✔】pkg install python3 -y
 
-【✔】git clone https://github.com/Kiny-Kiny/Kiny-Painel
+【✔】git clone https://github.com/gpdkiller182/gpdkiller182-Painel
 
 【✔】cd Kiny-Painel
 
